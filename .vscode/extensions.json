@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "glen-84.sass-lint",
+    "syler.sass-indented",
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+    "hookyqr.beautify",
+    "mike-lischke.vscode-antlr4",
+    "stylelint.vscode-stylelint"
+  ]
+}
